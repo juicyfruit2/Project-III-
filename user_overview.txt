@@ -1,0 +1,84 @@
+~ User Overview ~
+
+Total Users:		9
+Total Tasks:		2
+----------------------------------------------------
+User:					admin
+User Tasks:				2
+Portion Total Tasks:	100%
+Portion Completed:		100%
+Portion Incomplete:		0%
+Portion Overdue:		0%
+----------------------------------------------------
+
+----------------------------------------------------
+User:					patron
+User Tasks:				0
+Portion Total Tasks:	0%
+Portion Completed:		0%
+Portion Incomplete:		0%
+Portion Overdue:		0%
+----------------------------------------------------
+
+----------------------------------------------------
+User:					guest
+User Tasks:				0
+Portion Total Tasks:	0%
+Portion Completed:		0%
+Portion Incomplete:		0%
+Portion Overdue:		0%
+----------------------------------------------------
+
+----------------------------------------------------
+User:					billy
+User Tasks:				0
+Portion Total Tasks:	0%
+Portion Completed:		0%
+Portion Incomplete:		0%
+Portion Overdue:		0%
+----------------------------------------------------
+
+----------------------------------------------------
+User:					jean
+User Tasks:				0
+Portion Total Tasks:	0%
+Portion Completed:		0%
+Portion Incomplete:		0%
+Portion Overdue:		0%
+----------------------------------------------------
+
+----------------------------------------------------
+User:					marcus
+User Tasks:				0
+Portion Total Tasks:	0%
+Portion Completed:		0%
+Portion Incomplete:		0%
+Portion Overdue:		0%
+----------------------------------------------------
+
+----------------------------------------------------
+User:					jadon
+User Tasks:				0
+Portion Total Tasks:	0%
+Portion Completed:		0%
+Portion Incomplete:		0%
+Portion Overdue:		0%
+----------------------------------------------------
+
+----------------------------------------------------
+User:					bhule
+User Tasks:				0
+Portion Total Tasks:	0%
+Portion Completed:		0%
+Portion Incomplete:		0%
+Portion Overdue:		0%
+----------------------------------------------------
+
+----------------------------------------------------
+User:					talmage
+User Tasks:				0
+Portion Total Tasks:	0%
+Portion Completed:		0%
+Portion Incomplete:		0%
+Portion Overdue:		0%
+----------------------------------------------------

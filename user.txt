@@ -1,0 +1,9 @@
+admin, adm1n
+patron, nxt01
+guest, smd2
+billy, 123
+jean,  keen
+marcus, cr7
+jadon, tc23
+bhule, bb02
+talmage, tdog

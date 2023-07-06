@@ -1,0 +1,3 @@
+admin, the way of the superior man, self impprovment, 02-03-2023, 10-03-2023, Yes
+admin, string handeling, manipulate strings, 02-03-2023, 10-03-2023, Yes
+patron, while loops, loop through lines, 02-05-2023, 09-05-2023, No
