@@ -70,7 +70,3 @@ the tasks tracked in task_manager.py, including the total number of tasks, compl
 - The menu option to display statistics has been modified to read the reports generated from task_overview.txt and user_overview.txt.
 - If the text files don't exist (not generated yet), the code will generate them before displaying the statistics on the screen in a user-friendly manner.
 
-## Contact <a name="contact"></a>
-
-If you encounter any difficulties or have any questions, please feel free to contact our specialist team on Discord for support.
-
